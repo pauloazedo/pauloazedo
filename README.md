@@ -48,7 +48,10 @@ Specializing in secure, automated infrastructure. Cloud-native, container-first,
 
 I'm a senior systems engineer with deep experience in automation, infrastructure design, cloud platforms, and secure DevOps pipelines. I build things the right way — modular, repeatable, minimal-risk — and I believe in clear, well-documented systems that are easy to onboard, scale, and secure.
 
-Currently building out my DevOps portfolio infrastructure from scratch using OCI, Terraform, Ansible, Jenkins, Docker, and Next.js. Always leveling up and keeping it clean.
+Currently building out my DevOps portfolio infrastructure from scratch using **OCI**, **Terraform**, **Ansible**, **Jenkins**, **Docker**, and **Next.js**.  
+The goal is to evolve it into a **multi-cloud, production-grade architecture**, with support for **AWS**, **Azure**, and **GCP** — following the same automation-first, secure-by-default principles.
+
+Always leveling up and keeping it clean.
 
 ---
 
