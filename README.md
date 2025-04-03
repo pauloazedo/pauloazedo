@@ -61,6 +61,7 @@ Specializing in secure, automated infrastructure. Cloud-native, container-first,
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 <img src="https://img.shields.io/badge/ITIL-7B00FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 </div>
 
