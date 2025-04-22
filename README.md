@@ -1,97 +1,140 @@
-# Paulo Azedo
+<h1 align="center">Hi, I'm Paulo Azedo</h1>
 
-**Senior Systems Engineer & DevOps Architect**  
-Specializing in secure, automated infrastructure. Cloud-native, container-first, code-driven.
-
----
-
-## 🧰 Tech Stack
+<h3 align="center">Senior Systems Engineer | Solutions Architect | DevOps | Cloud Computing | Infrastructure-as-Code</h3>
 
 <div align="center">
-
-<!-- Cloud Providers -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-<!-- Infrastructure as Code & Automation -->
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=aws&logoColor=white" />
-
-<!-- CI/CD -->
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-<!-- Containers & Orchestration -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-
-<!-- Web Stack -->
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Let's Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<!-- Operating Systems -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-
-<!-- Monitoring -->
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white" />
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<!-- Tools & Methods -->
-<img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-<img src="https://img.shields.io/badge/ITIL-7B00FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-
+  <img src="https://komarev.com/ghpvc/?username=pauloazedo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
 
-## 📬 Contact Me
+## 🚀 About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pauloazedo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.pauloazedo.dev">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:paulo@pauloazedo.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+I'm a systems engineer with over two decades of experience in **infrastructure, automation, and DevOps**.  
+My approach blends **secure design**, **modular automation**, and **cloud-native thinking** to deliver production-grade environments across **OCI**, **AWS**, **Azure**, and **GCP**.
 
----
+Currently focused on building a fully automated **multi-cloud portfolio infrastructure** using:
+- Terraform
+- Ansible
+- Jenkins
+- Docker
+- Next.js (for the frontend)
 
-## ⚡ About Me
+I architect and deliver systems that are:
+- **Resilient by design**
+- **Secure by default**
+- **Automated end-to-end**
+- **Simple to onboard and scale**
 
-I'm a senior systems engineer with deep experience in automation, infrastructure design, cloud platforms, and secure DevOps pipelines. I build things the right way — modular, repeatable, minimal-risk — and I believe in clear, well-documented systems that are easy to onboard, scale, and secure.
-
-Currently building out my DevOps portfolio infrastructure from scratch using **OCI**, **Terraform**, **Ansible**, **Jenkins**, **Docker**, and **Next.js**.  
-The goal is to evolve it into a **multi-cloud, production-grade architecture**, with support for **AWS**, **Azure**, and **GCP** — following the same automation-first, secure-by-default principles.
-
-Always leveling up and keeping it clean.
+> “Infrastructure is only boring when it’s broken.”
 
 ---
 
-_“Infrastructure is only boring when it’s broken.”_
+## 🧰 Tech Toolbox
+
+### ☁️ Cloud & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" />
+</p>
+
+### 🛠 Infrastructure as Code & Automation
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" width="40" height="40" />
+</p>
+
+### 🔄 CI/CD
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40" />
+</p>
+
+### 📦 Containers & Orchestration
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="40" height="40" /> <!-- Replacing VMware -->
+</p>
+
+### 🌐 Web & Frontend Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+</p>
+
+### 📊 Monitoring & Infra
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /> <!-- Used for JBoss -->
+</p>
+
+### 💻 Languages
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+</p>
+
+### 🗄 Databases
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />
+</p>
+
+### ⚙️ Operating Systems & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="40" height="40" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloazedo&layout=compact&theme=vue&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/pauloazedo" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+## 🧠 Fun Facts
+
+- 💡 I’m currently exploring advanced **blue/green deployments** and **dynamic secrets management**
+- 🎯 I love **clean documentation**, **elegant automation**, and **secure-by-default** systems
+- 💬 Ask me about DevOps, Linux, CI/CD, or **how to break monoliths into clean pipelines**
+
+---
+
+> Built with code. Hardened with care. Explained so others can follow.
